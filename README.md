@@ -1,4 +1,4 @@
-Line Alphat JS
+# BOT ALPHAT
 
 # require node >= v8.x.x
 check your nodejs version
@@ -23,5 +23,6 @@ check your nodejs version
 - npm start
 
 - Tx To TCR TEAM
+- Alfathdirk 
 
 - line.me/ti/p/~dekradakz
